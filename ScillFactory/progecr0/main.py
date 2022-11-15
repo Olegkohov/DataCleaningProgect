@@ -1,0 +1,2 @@
+print('casa durak')
+    
